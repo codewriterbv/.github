@@ -2,10 +2,9 @@
 
 ![](../assets/logo-codewriter.png)
 
-CodeWriter bv
-Belgium
+CodeWriter bv, Belgium
 
-For more info, check
+For more info, check:
 
 * [webtechie.be](https://webtechie.be)
 * [codewriter.be](https://codewriter.be)
